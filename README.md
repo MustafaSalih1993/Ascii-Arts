@@ -70,7 +70,7 @@
 
 
 ## Contribution
-contributions are welcome to help this repo to stay active.
+contributions to add new arts or edit art color are welcome.
 
 <br/>
 
