@@ -7,6 +7,7 @@
 * [Alien](ascii_files/alien)
 * [Among-Us](ascii_files/amongus)
 * [Bird](ascii_files/bird)
+* [C](ascii_files/c)
 * [Dog](ascii_files/dog)
 * [Godot](ascii_files/godot)
 * [Horn](ascii_files/horn)
@@ -29,6 +30,11 @@
 ## [Bird](ascii_files/bird)
 <p align="center">
 <img width="600px" src="images/bird.png">
+</p><br/>
+
+## [C](ascii_files/c)
+<p align="center">
+<img width="600px" src="images/c.png">
 </p><br/>
 
 ## [Dog](ascii_files/dog)
