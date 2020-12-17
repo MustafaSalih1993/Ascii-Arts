@@ -14,6 +14,7 @@
 * [Poison](ascii_files/poison)
 * [PukeSkull](ascii_files/pukeskull)
 * [Python](ascii_files/python)
+* [Typescript](ascii_files/ts)
 
 <br/>
 
@@ -67,7 +68,10 @@
 <img width="600px" src="images/python.png">
 </p><br/>
 
-
+## [Typescript](ascii_files/ts)
+<p align="center">
+<img width="600px" src="images/ts.png">
+</p><br/>
 
 ## Contribution
 contributions to add new arts or edit art color are welcome.
