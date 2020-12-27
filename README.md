@@ -14,6 +14,7 @@
 * [Poison](ascii_files/poison)
 * [PukeSkull](ascii_files/pukeskull)
 * [Python](ascii_files/python)
+* [Rust](ascii_files/rust)
 * [Typescript](ascii_files/ts)
 
 <br/>
@@ -66,6 +67,11 @@
 ## [Python](ascii_files/python)
 <p align="center">
 <img width="600px" src="images/python.png">
+</p><br/>
+
+## [Rust](ascii_files/rust)
+<p align="center">
+<img width="600px" src="images/rust.png">
 </p><br/>
 
 ## [Typescript](ascii_files/ts)
