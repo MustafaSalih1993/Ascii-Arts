@@ -9,6 +9,7 @@
 * [Bird](ascii_files/bird)
 * [C](ascii_files/c)
 * [Dog](ascii_files/dog)
+* [Ferris](ascii_files/ferris)
 * [Godot](ascii_files/godot)
 * [Horn](ascii_files/horn)
 * [Poison](ascii_files/poison)
@@ -42,6 +43,11 @@
 ## [Dog](ascii_files/dog)
 <p align="center">
 <img width="600px" src="images/dog.png">
+</p><br/>
+
+## [Ferris](ascii_files/ferris)
+<p align="center">
+<img width="600px" src="images/ferris.png">
 </p><br/>
 
 ## [Godot](ascii_files/godot)
