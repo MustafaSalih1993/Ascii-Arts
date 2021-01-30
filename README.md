@@ -8,6 +8,7 @@
 * [Among-Us](ascii_files/amongus)
 * [Bird](ascii_files/bird)
 * [C](ascii_files/c)
+* [Debian](ascii_files/debian)
 * [Dog](ascii_files/dog)
 * [Ferris](ascii_files/ferris)
 * [Godot](ascii_files/godot)
@@ -38,6 +39,11 @@
 ## [C](ascii_files/c)
 <p align="center">
 <img width="600px" src="images/c.png">
+</p><br/>
+
+## [Debian](ascii_files/debian)
+<p align="center">
+<img width="600px" src="images/debian.png">
 </p><br/>
 
 ## [Dog](ascii_files/dog)
