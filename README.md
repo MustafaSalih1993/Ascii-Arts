@@ -14,6 +14,7 @@
 * [Ferris](ascii_files/ferris)
 * [Godot](ascii_files/godot)
 * [Horn](ascii_files/horn)
+* [OpenSuse](ascii_files/opensuse)
 * [Poison](ascii_files/poison)
 * [PukeSkull](ascii_files/pukeskull)
 * [Python](ascii_files/python)
@@ -70,6 +71,11 @@
 ## [Horn](ascii_files/horn)
 <p align="center">
 <img width="600px" src="images/horn.png">
+</p><br/>
+
+## [OpenSuse](ascii_files/opensuse)
+<p align="center">
+<img width="600px" src="images/opensuse.png">
 </p><br/>
 
 ## [Poison](ascii_files/poison)
